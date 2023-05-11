@@ -15,7 +15,7 @@ OFF : 카메라 끄기<br/>
 
   - Save<br/>
    각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장된다<br/>
-   <img width="320" alt="save" src="https://github.com/ssen021/falko/assets/130373143/3a463e3b-e102-4d43-b3d8-f3916021de05"><br/>
+   <img width="640" alt="save" src="https://github.com/ssen021/falko/assets/130373143/3a463e3b-e102-4d43-b3d8-f3916021de05"><br/>
   - Quit<br/>
    프로그램을 종료한다<br/> <br/>
  <br/>
