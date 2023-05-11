@@ -3,6 +3,8 @@
 
 falko 사용법<br/><br/>
 -------------
+<img width="244" alt="ui" src="https://github.com/ssen021/falko/assets/130373143/17b2304b-d4b0-44e1-bb8b-493086d9aa97"><br/>
+
 [File]<br/>
 <img width="148" alt="file_image" src="https://github.com/ssen021/falko/assets/130373143/7b3a8f77-71f5-4166-96e4-94576c86aab7"><br/>
 
