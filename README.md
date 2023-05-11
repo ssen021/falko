@@ -19,5 +19,7 @@ falko 사용법<br/><br/>
    Seat Information에 좌석 정보를 띄움 후 finish 누름<br/>
   
 [View]<br/>
+   - camera
+    각 카메라 버튼 누르면 해당 화면만 확대해서 보여줌 <br/>
 [Help]<br/>
   사용법을 알려줌<br/>
