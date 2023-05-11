@@ -4,7 +4,6 @@
 falko 사용법<br/><br/>
 -------------
 <img width="588" alt="ui" src="https://github.com/ssen021/falko/assets/130373143/9c0891f4-cc18-48ff-b738-fd9ef1b6b439">
-<img src="[https://url/image.png]" width="300" height="300"/>
 <br/>
 Unreserved seat : 예매되지 않은 좌석에 사람이 착석할 경우 해당 좌석번호를 띄운다<br/>
 On : 카메라 켜기<br/>
@@ -12,7 +11,7 @@ OFF : 카메라 끄기<br/>
 <br/>
 
 [File]<br/>
-<img width="148" alt="file_image" src="https://github.com/ssen021/falko/assets/130373143/7b3a8f77-71f5-4166-96e4-94576c86aab7"><br/>
+<img width="399" alt="file_image" src="https://github.com/ssen021/falko/assets/130373143/7b3a8f77-71f5-4166-96e4-94576c86aab7"><br/>
 
   - Save<br/>
    각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장된다<br/>
