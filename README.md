@@ -10,13 +10,8 @@ falko 사용법<br/><br/>
    falko 프로그램 종료<br/> <br/>
  <br/>
 [Edit]<br/>
-*
-*    Seat Setting<br/>
-   Load 버튼을 눌러 의자 좌표 정보가 들어있는 .txt파일을 불러옴<br/>
-   불러온 후 Finish 버튼 누르기 <br/>
-* Seat Setting<br/>
-   Load 버튼을 눌러 의자 좌표 정보가 들어있는 .txt파일을 불러옴<br/>
-   불러온 후 Finish 버튼 누르기 <br/><br/>
+  - Seat Setting<br/>
+   Load 버튼을 눌러 의자 좌표 정보가 들어있는 .txt파일을 불러온 후 Finish <br/>
 <br/>
 [Capture]<br/>
   - Seat Capture <br/>
