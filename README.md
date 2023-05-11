@@ -9,12 +9,7 @@ falko 사용법<br/><br/>
   - Quit<br/>
    falko 프로그램 종료<br/> <br/>
  <br/>
- [File]<br/>
-  - Save<br/>
-   각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장<br/>
-  - Quit<br/>
-   falko 프로그램 종료<br/> <br/>
- <br/>
+
  
 [Edit]<br/>
   - Save<br/>
