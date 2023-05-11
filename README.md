@@ -4,6 +4,7 @@
 falko 사용법<br/><br/>
 -------------
 <img width="244" alt="ui" src="https://github.com/ssen021/falko/assets/130373143/9c0891f4-cc18-48ff-b738-fd9ef1b6b439">
+<img src="[https://url/image.png](https://github.com/ssen021/falko/assets/130373143/9c0891f4-cc18-48ff-b738-fd9ef1b6b439)" width="50" height="50"/>
 <br/>
 Unreserved seat : 예매되지 않은 좌석에 사람이 착석할 경우 해당 좌석번호를 띄운다<br/>
 On : 카메라 켜기<br/>
