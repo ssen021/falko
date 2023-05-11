@@ -29,6 +29,7 @@ OFF : 카메라 끄기<br/>
 <br/>
 
 [Capture]<br/>
+<img width="137" alt="capture_image" src="https://github.com/ssen021/falko/assets/130373143/424f2ee9-5140-4b18-866d-3528da326b24"><br/>
   - Seat Capture <br/>
    Destination Folder 에 의자 좌표 정보가 들어잇는 .txt 파일을 저장할 경로를 지정한다<br/>
    각 camera 버튼을 누르면 해당 카메라가 켜지고 의자를 인식한다<br/>
