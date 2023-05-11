@@ -5,7 +5,7 @@ falko 사용법
 
 <File>
   - Save
-   각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장
+   각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장<br/>
   - Quit
    falko 프로그램 종료
 <Edit>
