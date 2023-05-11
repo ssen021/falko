@@ -7,6 +7,7 @@ falko 사용법<br/><br/>
 <img width="148" alt="file_image" src="https://github.com/ssen021/falko/assets/130373143/7b3a8f77-71f5-4166-96e4-94576c86aab7">
 
   - Save<br/>
+  <img width="320" alt="save" src="https://github.com/ssen021/falko/assets/130373143/3a463e3b-e102-4d43-b3d8-f3916021de05">
    각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장<br/>
   - Quit<br/>
    falko 프로그램 종료<br/> <br/>
@@ -20,6 +21,7 @@ falko 사용법<br/><br/>
 
 [Capture]<br/>
   - Seat Capture <br/>
+<img width="197" alt="Seat_Capture" src="https://github.com/ssen021/falko/assets/130373143/ae992e20-fa05-4e74-b641-f63c307a6905">
    Destination Folder 에 의자 좌표 정보가 들어잇는 .txt 파일을 저장할 경로를 지정<br/>
    A camera 버튼을 누르면 카메라가 켜져 의자를 인식함<br/>
    Seat Information에 좌석 정보를 띄움 후 finish 누름<br/>
