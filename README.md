@@ -21,19 +21,19 @@ OFF : 카메라 끄기<br/>
  <br/>
 
 [Capture]<br/>
-<img width="137" alt="capture_image" src="https://github.com/ssen021/falko/assets/130373143/424f2ee9-5140-4b18-866d-3528da326b24"><br/>
+<img width="274" alt="capture_image" src="https://github.com/ssen021/falko/assets/130373143/424f2ee9-5140-4b18-866d-3528da326b24"><br/>
   - Seat Capture <br/>
    Destination Folder 에 의자 좌표 정보가 들어잇는 .txt 파일을 저장할 경로를 지정한다<br/>
    각 camera 버튼을 누르면 해당 카메라가 켜지고 의자를 인식한다<br/>
    Seat Information에 좌석 정보를 띄움 후 finish 누른다<br/>
-   <img width="197" alt="Seat_Capture" src="https://github.com/ssen021/falko/assets/130373143/ae992e20-fa05-4e74-b641-f63c307a6905"><br/>
+   <img width="394" alt="Seat_Capture" src="https://github.com/ssen021/falko/assets/130373143/ae992e20-fa05-4e74-b641-f63c307a6905"><br/>
 <br/>
  
 [Edit]<br/>
-<img width="139" alt="edit_image" src="https://github.com/ssen021/falko/assets/130373143/5edae2ad-807d-42d7-a854-0c1ea206e0a0"><br/>
+<img width="278" alt="edit_image" src="https://github.com/ssen021/falko/assets/130373143/5edae2ad-807d-42d7-a854-0c1ea206e0a0"><br/>
   - Seat Setting<br/>
    Load 버튼을 눌러 의자 좌표 정보가 들어있는 .txt파일을 불러온 후 Finish 버튼을 누른다 <br/>
-    <img width="236" alt="Seat_setting" src="https://github.com/ssen021/falko/assets/130373143/b4cb0fa8-91aa-4fe9-a3d7-709ac3fec958"><br/>
+    <img width="472" alt="Seat_setting" src="https://github.com/ssen021/falko/assets/130373143/b4cb0fa8-91aa-4fe9-a3d7-709ac3fec958"><br/>
 <br/>
 
   
