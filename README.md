@@ -4,6 +4,8 @@
 falko 사용법<br/><br/>
 -------------
 [File]<br/>
+<img width="148" alt="file_image" src="https://github.com/ssen021/falko/assets/130373143/7b3a8f77-71f5-4166-96e4-94576c86aab7">
+
   - Save<br/>
    각 공간에서 예매되지 않은 좌석 정보들이 .txt파일로 저장<br/>
   - Quit<br/>
